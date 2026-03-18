@@ -1,6 +1,9 @@
 # Web Version of the RBWR Multitool
 
-[![pages-build-deployment](https://github.com/nxrvi/rbwrmultitoolweb/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/nxrvi/rbwrmultitoolweb/actions/workflows/pages/pages-build-deployment)
+[![pages-build-deployment](https://github.com/bonaktan/rbwrmultitoolweb/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/bonaktan/rbwrmultitoolweb/actions/workflows/pages/pages-build-deployment)
+
+## Notice
+This is a [fork](https://github.com/nxrvi/rbwrmultitoolweb) from **nxrvi**'s RBWR Multitool Web that got archived on February 6, 2026.
 
 ## Stuff that is possible currently
 

@@ -238,6 +238,15 @@ h1 {
   backdrop-filter: brightness(85%);
 }
 
+.footer a {
+  color: #ff9800;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+.footer a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
 @media (max-width: 730px) {
   .navbar-toggle {
     display: block;
